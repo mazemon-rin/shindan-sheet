@@ -6,7 +6,7 @@
 
 ## 公開ページ
 
-https://mazemon-rin.github.io/shindan-sheet/
+https://mazemon-rin.github.io/shinsatsu-memosheet/
 
 ## 概要
 
