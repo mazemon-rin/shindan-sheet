@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mazemon-rin.github.io/shinsatsu-memosheet/sitemap.xml
